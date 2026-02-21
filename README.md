@@ -51,4 +51,5 @@ InterpolateCameraLookAt(playerid, 133.45, 466.78, 11.50, 210.10, 310.20, 16.00, 
 - CAMERA_MOVE / CAMERA_CUT toggle
 - HUD textdraw status
 - Export siap pakai sebagai kode Pawn
-```
+
+https://github.com/Awsomedude/easyDialog
