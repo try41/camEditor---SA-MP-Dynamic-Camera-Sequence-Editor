@@ -55,6 +55,5 @@ InterpolateCameraLookAt(playerid, 133.45, 466.78, 11.50, 210.10, 310.20, 16.00, 
 
 ---
 
-Buat **tags/topics** di GitHub-nya:
 ```
 samp openmp pawn gamemode camera cinematic sequence editor
