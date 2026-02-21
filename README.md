@@ -32,8 +32,8 @@ preview in real-time, and export ready-to-use pawn code.
 #include <camEditor>
 
 OnGameModeInit()      -> CamEditor_Init()
-OnPlayerConnect(p)    -> CamEditor_OnConnect(p)
-OnPlayerDisconnect(p) -> CamEditor_OnDisconnect(p)
+OnPlayerConnect(playerid)    -> CamEditor_OnConnect(playerid)
+OnPlayerDisconnect(playerid) -> CamEditor_OnDisconnect(playerid)
 ```
 
 ## Output File Example
@@ -52,8 +52,3 @@ InterpolateCameraLookAt(playerid, 133.45, 466.78, 11.50, 210.10, 310.20, 16.00, 
 - HUD textdraw status
 - Export siap pakai sebagai kode Pawn
 ```
-
----
-
-```
-samp openmp pawn gamemode camera cinematic sequence editor
